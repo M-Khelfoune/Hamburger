@@ -1,0 +1,4 @@
+pain
+fromage
+viande
+pain
